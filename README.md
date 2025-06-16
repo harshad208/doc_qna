@@ -123,7 +123,5 @@ Follow these instructions to get the project running locally for development and
 | `DELETE /docs/{doc_id}`           | Delete a document and its metadata      |
 
 
-## 📄 License
 
-Let me know if you want this in `README.md` with syntax highlighting for GitHub-flavored Markdown or want me to include links, badges, or example screenshots.
 
